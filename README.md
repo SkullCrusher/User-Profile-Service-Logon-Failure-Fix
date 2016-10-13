@@ -4,6 +4,9 @@ I made this years ago to fix the logon failure that is caused from a registory c
 
 One of my desktops with Windows 7 installed on it was corrupting accounts so I wrote a fixer. The post for the manual fix is here and if it fits your situation then the fixer should work. 
     http://support.microsoft.com/kb/947215
+   
+# Windows error that this fixes
+"The User Profile Service failed the logon. User profile cannot be loaded." http://support.microsoft.com/kb/947215
 
 # To use:
 1. Download and run as administer. 
