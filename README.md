@@ -1,6 +1,6 @@
 # User-Profile-Service-Logon-Failure-Fix
 
-# I made this years ago to fix the logon failure that is caused from a registory corruption. 
+I made this years ago to fix the logon failure that is caused from a registory corruption. 
 
 One of my desktops with Windows 7 installed on it was corrupting accounts so I wrote a fixer. The post for the manual fix is here and if it fits your situation then the fixer should work. 
     http://support.microsoft.com/kb/947215
@@ -17,5 +17,5 @@ One of my desktops with Windows 7 installed on it was corrupting accounts so I w
                  
                  
 # Binaries  
-1. Binarys are hosted on Google sites (https://sites.google.com/site/crusherofskull/the-user-profile-service-failed-the-logon-fix). 
+1. Binarys are hosted on Google sites https://sites.google.com/site/crusherofskull/the-user-profile-service-failed-the-logon-fix. 
 2. I attached in the release.
